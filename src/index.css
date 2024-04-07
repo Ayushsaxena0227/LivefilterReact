@@ -1,0 +1,18 @@
+img{
+    width: 80%;
+}
+.searchbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ert{
+position: relative;
+bottom: 295px;
+left: 480px;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
